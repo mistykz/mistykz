@@ -19,7 +19,7 @@ const arthya = {
 }
 ```
 
-<h2>My GitHub Stats &#x1f4c8;</h2>
+<h2>My GitHub Stats <img src="https://github.com/mistykz/mistykz/blob/main/kyubey.gif?raw=true" width="65px"></h2>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mistykz alt=mistykz /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mistykz&show_icons=true&include_all_commits=true)](https://github.com/mistykz/github-readme-stats)
