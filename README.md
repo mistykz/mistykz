@@ -5,7 +5,7 @@
 [![Twitter: arthyandika](https://img.shields.io/twitter/follow/arthyandika?style=social)](https://twitter.com/arthyandika)
 
 <h2>I'm Arthya Andika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/mistykz/mistykz/blob/main/code.gif?raw=true" width="310px">
+<img align='right' src="https://github.com/mistykz/mistykz/blob/main/code.gif?raw=true" width="425px">
 <p><em>Computer Science's Student at <a href="https://www.unud.ac.id/">Udayana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm still learning to improve my skills in this field!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
