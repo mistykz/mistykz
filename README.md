@@ -1,4 +1,4 @@
-# Hello, Welcome to My Profile! <img src="https://github.com/mistykz/mistykz/blob/main/wave.gif?raw=true" width="30px">
+# Hello, Welcome to My Profile! <img src="https://github.com/mistykz/mistykz/blob/main/wave.gif?raw=true" width="120px">
 
 [![Github Badge](https://img.shields.io/badge/-mistykz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mistykz/)](https://www.github.com/mistykz/) [![Gmail Badge](https://img.shields.io/badge/-arthyaandika@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arthyaandika@gmail.com)](mailto:arthyaandika@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-arthyandika-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/arthyandika/)](https://www.twitter.com/arthyandika/)
 
