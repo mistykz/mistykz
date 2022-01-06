@@ -22,6 +22,7 @@ const arthya = {
 <h2>My GitHub Stats <img src="https://github.com/mistykz/mistykz/blob/main/kyubey.gif?raw=true" width="65px"></h2>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mistykz alt=mistykz /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mistykz&show_icons=true&include_all_commits=true)](https://github.com/mistykz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistykz&layout=compact)](https://github.com/mistykz/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mistykz&show_icons=true&include_all_commits=true)](https://github.com/mistykz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistykz&layout=compact)](https://github.com/mistykz/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
