@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://https://raw.githubusercontent.com/mistykz/mistykz/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/mistykz/mistykz/blob/main/wave.gif?raw=true" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-arthyaandika@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arthyaandika@gmail.com)](mailto:arthyaandika@gmail.com) [![Github Badge](https://img.shields.io/badge/-mistykz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mistykz/)](https://www.github.com/mistykz/) <p align='left'>I'm a Computer Science's student from Udayana University. I'm still learning to improve my skills in this field.</p>
 ## Some of my Github Stats
