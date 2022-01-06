@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-mistykz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mistykz/)](https://www.github.com/mistykz/) [![Gmail Badge](https://img.shields.io/badge/-arthyaandika@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arthyaandika@gmail.com)](mailto:arthyaandika@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-arthyandika-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/arthyandika/)](https://www.twitter.com/arthyandika/)
 
 <h2> Hi, I'm Arthya Andika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/mistykz/mistykz/blob/main/code.gif?raw=true" width="230">
 <p><em>Computer Science's Student at <a href="https://www.unud.ac.id/">Udayana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Always on!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
