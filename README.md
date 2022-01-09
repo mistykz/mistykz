@@ -1,4 +1,4 @@
-<h1>Hello, Welcome to My Profile! <img src="https://github.com/mistykz/mistykz/blob/main/wave.gif?raw=true" width="30px"></h1>
+<h1>Hello, Welcome! <img src="https://github.com/mistykz/mistykz/blob/main/wave.gif?raw=true" width="30px"></h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-arthyaandika@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arthyaandika@gmail.com)](mailto:arthyaandika@gmail.com)
 [![GitHub mistykz](https://img.shields.io/github/followers/mistykz?label=follow&style=social)](https://github.com/mistykz)
@@ -9,7 +9,7 @@
 <p><em>Computer Science's Student at <a href="https://www.unud.ac.id/">Udayana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm still learning to improve my skills in this field!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<h2>Little more code about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2>Little more code about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 ```javascript
 const arthya = {
