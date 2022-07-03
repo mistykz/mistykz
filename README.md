@@ -3,7 +3,6 @@
 [![Twitter: arthyandika](https://img.shields.io/twitter/follow/arthyandika?style=social)](https://twitter.com/arthyandika)
 
 <h2>I'm Arthya Andika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/mistykz/mistykz/blob/main/code.gif?raw=true" width="440px">
 <p><em>Computer Science's Student at <a href="https://www.unud.ac.id/">Udayana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm still learning to improve my skills in this field!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -17,7 +16,7 @@ const arthya = {
 }
 ```
 
-<h2>My GitHub Stats <img src="https://github.com/mistykz/mistykz/blob/main/kyubey.gif?raw=true" width="65px"></h2>
+<h2>My GitHub Stats</h2>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mistykz alt=mistykz /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mistykz&show_icons=true&include_all_commits=true)](https://github.com/mistykz/github-readme-stats)
